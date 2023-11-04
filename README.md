@@ -12,7 +12,9 @@ GenerateAI is a cutting-edge, all-in-one AI generation platform that empowers in
 
 [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework
 
-[Shadcn/ui] (https://ui.shadcn.com/) - Components library
+[Shadcn] (https://ui.shadcn.com/) - Components library
+
+[Clerk] (https://clerk.com/) - Authentication and Login
 
 [NodeJS](https://nodejs.org/en/) -Javascript Runtime Environment
 
