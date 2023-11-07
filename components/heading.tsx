@@ -1,11 +1,11 @@
 import { cn } from "@/lib/utils";
 import { Description } from "@radix-ui/react-dialog";
-import { LucideIcon } from "lucide-react";
+// import { LucideIcon } from "lucide-react";
 
 interface HeadingProps {
   title: string;
   description: string;
-  icon: LucideIcon;
+  icon: any;
   iconColor?: string;
   bgColor?: string;
 }
